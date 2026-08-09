@@ -2,55 +2,40 @@
 
 ### Intelligent Scholarship Application Pre-Submission Verification
 
-AI-powered pre-submission verification that checks scholarship applications for missing documents, inconsistencies, evidence gaps, and potential compliance issues.
+VeriForm AI is an AI-powered pre-submission verification system designed to help scholarship applicants identify missing documents, inconsistent information, evidence gaps, and potential compliance issues before submitting their applications.
 
 ## 🚀 Live Demo
 
-👉 [Launch VeriForm AI](https://partyrock.aws/u/yadusonam/1KwnC2IBL/VeriForm-AI-Scholarship-Verification)
+👉 **[Launch VeriForm AI](https://partyrock.aws/u/yadusonam/1KwnC2IBL/VeriForm-AI-Scholarship-Verification)**
 
 ---
 
 ## 📌 Problem Statement
 
-Scholarship applications often require multiple supporting documents such as identity proof, income certificates, marksheets, domicile certificates, category certificates, and bonafide certificates.
+Scholarship applications often require applicants to submit multiple supporting documents such as identity proof, income certificates, marksheets, domicile certificates, category certificates, and bonafide certificates.
 
 Applicants may unknowingly submit applications containing:
 
-- Missing documents
+- Missing mandatory documents
 - Incorrect information
 - Conflicting information across documents
-- Potentially outdated certificates
-- Evidence gaps
-- Poor-quality documents
 - Requirement mismatches
+- Incomplete evidence
+- Potential document validity issues
 
-These problems are often discovered only after submission, resulting in correction requests, delays, repeated submissions, and possible rejection.
+These problems may only be discovered after submission, leading to correction requests, delays, repeated submissions, or possible rejection.
 
-**VeriForm AI** provides a pre-submission verification layer to identify these issues before the application is submitted.
+### The Problem
+
+Applicants need a way to verify their application **before submission**, rather than discovering document and information problems after submission.
 
 ---
 
 ## 💡 Solution
 
-VeriForm AI analyzes the application as a connected evidence system:
+**VeriForm AI** acts as a pre-submission verification layer.
 
-**Applicant Information + Application Details + Requirements + Supporting Documents**
-
-The system then performs:
-
-**Evidence Extraction → Verification → Risk Analysis → Correction Guidance → Final Verification Report**
-
-It helps applicants understand:
-
-- What is missing?
-- What information is inconsistent?
-- Which requirements need attention?
-- Why was an issue detected?
-- What should be fixed first?
-
----
-
-## ⚙️ Core Workflow
+It analyzes:
 
 ```text
 Applicant Information
